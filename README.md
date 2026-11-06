@@ -2,7 +2,7 @@
 
 Пишу на C#, Python и JS. Ещё Unity, React, Vue, SQL, Lua и Pascal.
 
-Из того, что выросло вокруг Savix:
+Мелкие инструменты:
 
 - [proxylink](https://github.com/yasavok/proxylink): ссылки и подписки в конфиги Xray и sing-box
 - [subping](https://github.com/yasavok/subping): какие серверы из подписки живые и какой быстрее
