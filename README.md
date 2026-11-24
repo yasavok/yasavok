@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="yasavok">
+  <img src="assets/banner.svg" width="100%" alt="yasavok">
 </p>
 <p align="center">
   <a href="https://github.com/yasavok/Savix"><img src="assets/savix.svg" width="100%" alt="Savix: VPN-клиент на Xray-core. Основное, над чем работаю сейчас"></a>
